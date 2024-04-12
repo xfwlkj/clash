@@ -1086,14 +1086,7 @@ proxies:
   - {"name":"jd998","type":"socks5","server":"45.43.179.21","port":6028,"username":"xfwlkj11","password":"xf123456"}
   - {"name":"jd999","type":"socks5","server":"23.129.253.153","port":6771,"username":"xfwlkj11","password":"xf123456"}
   - {"name":"jd1000","type":"socks5","server":"64.137.8.17","port":6699,"username":"xfwlkj11","password":"xf123456"}
-proxy-groups:
-  - name: ♻️ 自动选择
-    type: url-test
-    url: http://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - jd
+
 
 
 
