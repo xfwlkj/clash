@@ -86,7 +86,7 @@ dns:
 
 proxies:
   - {"name":"zdz","type":"socks5","server":"52cf0172c58f4376.us.ip2world.vip","port":6001,"username":"xfwlkj1-zone-resi-region-ph","password":"xf12345"}
-  - {"name":"jd1","type":"socks5","server":"198.105.100.202,"port":6453,"username":"xfwlkj11","password":"xf123456"}
+  - {"name":"jd1","type":"socks5","server":"198.105.100.202","port":6453,"username":"xfwlkj11","password":"xf123456"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
