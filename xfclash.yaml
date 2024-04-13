@@ -1092,6 +1092,7 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
+      - 注册
       - jd1
       - jd2
       - jd3
