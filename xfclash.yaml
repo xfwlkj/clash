@@ -85,7 +85,7 @@ dns:
       - 0.0.0.0/32
 
 proxies:
-  - {"name":"注册","type":"socks5","server":"52cf0172c58f4376.nbd.us.ip2world.vip","port":6287,"username":"xfwlkj-zone-resi","password":"xf12345"}
+  - {"name":"注册","type":"socks5","server":"52cf0172c58f4376.nbd.us.ip2world.vip","port":6001,"username":"xfwlkj-zone-resi","password":"xf12345"}
   - {"name":"jd1","type":"socks5","server":"216.173.104.150","port":6287,"username":"xfwlkj11","password":"xf123456"}
   - {"name":"jd2","type":"socks5","server":"45.192.157.107","port":6234,"username":"xfwlkj11","password":"xf123456"}
   - {"name":"jd3","type":"socks5","server":"104.143.244.109","port":6057,"username":"xfwlkj11","password":"xf123456"}
